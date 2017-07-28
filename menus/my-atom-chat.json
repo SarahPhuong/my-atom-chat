@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle my-atom-chat",
+        "command": "my-atom-chat:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "my-atom-chat",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "my-atom-chat:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
