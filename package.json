@@ -1,8 +1,8 @@
 {
-  "name": "atom-chat",
-  "version": "0.3.0",
-  "description": "Atom Chat",
-  "repository": "https://github.com/mertkahyaoglu/atom-chat",
+  "name": "my-atom-chat",
+  "version": "0.4.0",
+  "description": "My Atom Chat",
+  "repository": "https://github.com/SarahPhuong/my-atom-chat",
   "main": "./lib/atom-chat.coffee",
   "dependencies": {
     "atom-space-pen-views": "^2.1.0",
